@@ -1,0 +1,1 @@
+its the task which is given to me by gi bots , it contain 1 python file which is the coding part ,it is done on google collab ,other csv files are also present which is used in training data and testing data and lable to train machine learning model 
